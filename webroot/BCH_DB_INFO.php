@@ -1,0 +1,1 @@
+<?php define('BCH_DB_USERNAME', b0703409ef4141b7b95db66638e9e42b); define('BCH_DB_PASSWORD', jWrFaRCOmJQNhArewien); define('BCH_DB_NAME', sqld.bcehost.com); define('BCH_DB_HOST', 3306); define('BCH_DB_PORT', );
